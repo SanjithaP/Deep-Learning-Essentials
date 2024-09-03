@@ -17,13 +17,6 @@ This repository contains a collection of deep learning experiments to understand
 11. [Experiment 11: Image Generation using Generative Adversarial Network (GAN)](experiments/experiment_11_gan_image_generation/README.md)
 12. [Experiment 12: Deep Reinforcement Learning for Dynamic Prediction](experiments/experiment_12_reinforcement_learning/README.md)
 
-## Requirements
-
-- Python 3.7+
-- TensorFlow or PyTorch
-- Jupyter Notebook
-- OpenCV
-- NumPy, Pandas, Matplotlib, and other common libraries
 
 ## Setup
 
