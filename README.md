@@ -4,9 +4,9 @@ This repository contains a collection of deep learning experiments to understand
 
 ## Experiments List
 
-1. [Experiment 1: Image Classification using Deep Neural Network (DNN)](experiments/experiment_1_image_classification_dnn/README.md)
-2. [Experiment 2: Image Classification using Convolutional Neural Network (CNN)](experiments/experiment_2_image_classification_cnn/README.md)
-3. [Experiment 3: Object Detection using CNN](experiments/experiment_3_object_detection_cnn/README.md)
+1. [Experiment 1: Image Classification using Deep Neural Network (DNN)](experiments/image_classification_dnn/readme.txt)
+2. [Experiment 2: Image Classification using Convolutional Neural Network (CNN)](experiments/DNN_CNN/README.txt)
+3. [Experiment 3: Object Detection using CNN](experiments/object_detection_cnn/README.md)
 4. [Experiment 4: Image Segmentation using Fully Convolutional Network (FCN)](experiments/experiment_4_image_segmentation_fcn/README.md)
 5. [Experiment 5: Dimensionality Reduction using Autoencoder](experiments/experiment_5_autoencoder_dimensionality_reduction/README.md)
 6. [Experiment 6: Image Reconstruction using Convolutional Autoencoder](experiments/experiment_6_convolutional_autoencoder/README.md)
