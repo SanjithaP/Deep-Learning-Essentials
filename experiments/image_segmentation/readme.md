@@ -1,1 +1,1 @@
-This sub-flder cintains Fully convolution netwrok code (FCN) for image segmentation.
+This sub-folder contains Fully convolution netwrok code (FCN) for image segmentation.
